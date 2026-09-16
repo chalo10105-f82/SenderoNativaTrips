@@ -1,0 +1,10 @@
+{
+  "description": "Create exact pixel-perfect website clones effortlessly to streamline design replication and ensure visual consistency for developers and designers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
